@@ -1,5 +1,4 @@
-# WdZF
-Wstęp do Zarządzania Finansami
+# Wstęp do Zarządzania Finansami
 
 Zestawy zadań:
 
