@@ -8,3 +8,4 @@ Zestawy zadań:
 * Zestaw 4: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_4___obligacje_i_teoria_portfela.pdf)
 * Zestaw 5: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_5___Kontrakty_terminowe.pdf)
 * Zestaw 6: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_6___Opcje.pdf)
+* Zestaw 7: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_7___Wycena_opcji.pdf)
