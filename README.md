@@ -10,3 +10,4 @@ Zestawy zadań:
   - Zad 2 d) [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_5___zad_2_d_.pdf)
 * Zestaw 6: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_6___Opcje.pdf)
 * Zestaw 7: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw_7___Wycena_opcji.pdf)
+* Zestaw 8: [pdf](https://github.com/ritabo/WdZF/blob/main/Zestaw%208%20-%20Strategie%20opcyjne.pdf)
